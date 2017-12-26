@@ -1,0 +1,14 @@
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\tankWar.vbprojResolveAssemblyReference.cache
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\tankWar.vbproj.GenerateResource.Cache
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\WindowsApplication3.Game.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\WindowsApplication3.Help.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\WindowsApplication3.Map.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication3\obj\Debug\WindowsApplication3.Start.resources

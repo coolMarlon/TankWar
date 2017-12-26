@@ -1,0 +1,10 @@
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\obj\Debug\TestKeyPressed.vbproj.GenerateResource.Cache
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\SSW\Desktop\坦克大战\tankwar\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

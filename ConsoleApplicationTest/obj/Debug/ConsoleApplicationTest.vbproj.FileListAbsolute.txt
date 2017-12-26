@@ -1,0 +1,10 @@
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe.config
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.pdb
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.xml
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.vbprojResolveAssemblyReference.cache
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.Resources.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.vbproj.GenerateResource.Cache
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.xml
+C:\Users\SSW\Desktop\坦克大战\tankwar\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb

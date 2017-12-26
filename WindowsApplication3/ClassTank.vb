@@ -1,8 +1,10 @@
-﻿Public Class ClassTank
+﻿' 坦克
+Public Class ClassTank
     Private x As Point
-    Private zds As List(Of ClassZd)
+    Public zds As List(Of ClassZd)
 
     Private tank_fx As fx
+
 
     Public Sub New(ByVal x As Point, ByVal tank_fx As fx)
         Me.x = x
@@ -10,7 +12,12 @@
         zds = New List(Of ClassZd)
     End Sub
 
-    Public Sub Draw(ByVal g As Graphics)
+    Public Function GetX()
+        Return x
+    End Function
+
+
+    Public Overridable Sub Draw(ByVal g As Graphics)
         Dim img As Image
         If tank_fx = fx.up Then
             img = Image.FromFile("2.png")
@@ -22,11 +29,11 @@
             img = Image.FromFile("1.png")
         End If
 
-        g.DrawRectangle(Pens.Black, x.X - 10, x.Y - 21, 20, 20)
-        g.DrawImage(img, x.X - 10, x.Y - 21, 20, 20)
+        g.DrawRectangle(Pens.Black, x.X - 25, x.Y - 50, 50, 50)
+        g.DrawImage(img, x.X - 25, x.Y - 50, 50, 50)
     End Sub
 
-    Public Sub Move(ByVal tank_fx As fx, ByVal g As Graphics)
+    Public Overridable Sub Move(ByVal tank_fx As fx, ByVal g As Graphics)
         Me.tank_fx = tank_fx
         If tank_fx = fx.up Then
             x.Y -= 5
@@ -52,6 +59,7 @@
         End If
     End Sub
 
+    ' 
     Public Sub tankc_zd_move(ByVal g As Graphics)
         If Not zds.Count = 0 Then
             For i = 0 To zds.Count - 1
@@ -70,6 +78,7 @@
 
 End Class
 
+' 方向 =_="　
 Public Enum fx
     up = 1
     down = 2

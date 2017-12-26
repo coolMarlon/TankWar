@@ -1,0 +1,11 @@
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\bin\Debug\Test.exe.config
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\bin\Debug\Test.exe
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\bin\Debug\Test.pdb
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\bin\Debug\Test.xml
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\obj\Debug\Test.Form1.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\obj\Debug\Test.Resources.resources
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\obj\Debug\Test.exe
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\obj\Debug\Test.xml
+C:\Users\SSW\Desktop\坦克大战\tankwar\Test\obj\Debug\Test.pdb
